@@ -1,6 +1,8 @@
-package service;
+package data;
 
 import java.util.Scanner;
+
+import services.ImplementSeatInterface;
 
 public class MainSeat {
 

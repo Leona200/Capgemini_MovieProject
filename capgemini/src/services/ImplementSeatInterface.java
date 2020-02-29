@@ -1,9 +1,11 @@
-package service;
+package services;
 
 import java.util.HashMap;
 import java.util.Scanner;
 
-import service.Seat.seatStatus;
+import data.*;
+import bean.*;
+import bean.Seat.seatStatus;
 
 public class ImplementSeatInterface implements SeatInterface{
 

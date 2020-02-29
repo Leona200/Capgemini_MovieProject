@@ -1,4 +1,4 @@
-package service;
+package bean;
 
 public class Seat {
 
@@ -17,5 +17,13 @@ public class Seat {
 	}
 	public void setSeatPrice(double seatPrice) {
 		this.seatPrice = seatPrice;
+	}
+	public Object getScreenId() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	public Object getTheaterId() {
+		// TODO Auto-generated method stub
+		return null;
 	}
 }

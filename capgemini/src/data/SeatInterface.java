@@ -1,4 +1,4 @@
-package service;
+package data;
 
 public interface SeatInterface {
 
